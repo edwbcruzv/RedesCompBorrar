@@ -1,0 +1,1 @@
+Este programa manda una solicitud ARP a todas las direcciones IP de la subred, y en caso de que alguna IP conteste, esta IP se almacenara un una base de datos MySQL junto con su direccion MAC correspondiente.

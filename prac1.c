@@ -200,7 +200,7 @@ int main(){
 	for(i=0;i<6;i++)
 		printf("%.2x",MACdestino[i]);
 
-	close(socket_packet)
+	close(packet_socket);
 
 
 
